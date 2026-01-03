@@ -1,7 +1,7 @@
 # Today I Learned (TIL) - 2026
 
 A repository to document my daily learnings, tips, and code snippets throughout 2026.
-The goal is to maintain consistency and reinforce knowledge. #2026GreenBoard
+The goal is to maintain consistency and reinforce knowledge. 
 
 ## Categories
 - [Java](./java)
