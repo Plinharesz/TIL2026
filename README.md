@@ -14,6 +14,6 @@ The goal is to maintain consistency and reinforce knowledge.
 
 ### January
 - [Jan 01] - Happy new year!
-- [Jan 02] - Project setup & consistency strategy definition.
+- [Jan 02] - Project setup & [How to create folders on github](./git/creating-folders-on-github.md)
 
 ---
