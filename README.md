@@ -15,5 +15,6 @@ The goal is to maintain consistency and reinforce knowledge.
 ### January
 - [Jan 01] - Happy new year!
 - [Jan 02] - Project setup & [How to create folders on github](./git/creating-folders-on-github.md)
+- [Jan 03] - I remembered some concepts of arrays and hashmaps ---> 
 
 ---
