@@ -4,7 +4,7 @@ A repository to document my daily learnings, tips, and code snippets throughout 
 The goal is to maintain consistency and reinforce knowledge. 
 
 ## Categories
-- [Java](./java)
+- Java
 - [Python](./python)
 - [Git & GitHub](./git)
 - [Productivity](./productivity)
