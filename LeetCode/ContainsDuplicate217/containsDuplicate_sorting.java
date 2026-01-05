@@ -1,8 +1,8 @@
 import java.util.Arrays;
 
-public class containsDuplicate {
-    public boolean hasDuplicate(int[] nums) {
-        Arrays.sort(nums);                      // Put numbers in order
+public class containsDuplicate_sorting {
+    public boolean containsDuplicate (int[] nums) {
+        Arrays.sort(nums);
         for (int i=1; i<nums.length; i++) {
             if (nums[i] == nums[i-1]) {
                 return true;

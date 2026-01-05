@@ -1,6 +1,5 @@
-package arrays;
+package arraysandhashmap;
 
-import java.sql.SQLOutput;
 import java.util.HashMap;
 
 public class TesteHashMap {

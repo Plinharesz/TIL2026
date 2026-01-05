@@ -1,4 +1,4 @@
-package arrays;
+package arraysandhashmap;
 
 public class TesteArrays {
     public static void main(String[] args) {
