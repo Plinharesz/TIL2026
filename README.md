@@ -16,5 +16,6 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Jan 01] - Happy new year!
 - [Jan 02] - Project setup & [How to create folders on github](./git/creating-folders-on-github.md).
 - [Jan 03] - Refreshed core concepts of [Arrays and HashMaps](./algorithms) to start my Data Structures & Algorithms journey.
+- [Jan 04] - First LeetCode exercise done ([ContainsDuplicate](./LeetCode))
 
 ---
