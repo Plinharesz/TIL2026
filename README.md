@@ -7,6 +7,7 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Java](./java)
 - [Git & GitHub](./git)
 - [Algorithms](./algorithms)
+- [LeetCode](./LeetCode)
 
 ## Recent History
 
