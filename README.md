@@ -16,5 +16,5 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Jan 02] - Project setup & [How to create folders on github](./git/creating-folders-on-github.md).
 - [Jan 03] - Refreshed core concepts of [Arrays and HashMaps](./algorithms) to start my Data Structures & Algorithms journey.
 - [Jan 04] - First LeetCode exercise done ([ContainsDuplicate](./LeetCode))
-- [Jan 05] - Learned about [HashSet](./algorithms/hashset/HashSet.md) and implemented 3 solutions for Contains Duplicate (Brute Force vs Sorting vs HashSet).
+- [Jan 05] - Learned about [HashSet](./algorithms/HashSet/HashSet.md) and implemented 3 solutions for Contains Duplicate (Brute Force vs Sorting vs HashSet).
 ---
