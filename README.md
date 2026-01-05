@@ -4,10 +4,10 @@ A repository to document my daily learnings, tips, and code snippets throughout 
 The goal is to maintain consistency and reinforce knowledge. 
 
 ## Categories
-- [Java](./Java)
-- [Git & GitHub](./git)
 - [Algorithms](./algorithms)
 - [LeetCode](./LeetCode)
+- [Git & GitHub](./git)
+- [Java](./Java)
 
 ## Recent History
 
