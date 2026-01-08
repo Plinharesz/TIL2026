@@ -2,7 +2,6 @@ import java.util.Arrays;
 
 public class validAnagram {
     public boolean validAnagram (String s, String t) {
-
         // 1- Verificação do Length
         if (s.length() != t.length()) {
             return false;
