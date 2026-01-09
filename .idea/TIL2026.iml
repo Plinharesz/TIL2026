@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/algorithms/arrays and hashmaps/codes" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LeetCode/ValidAnagram242" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/playground" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/TwoSum1" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
