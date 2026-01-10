@@ -20,5 +20,5 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Jan 06] - Second LeetCode exercise done ([ValidAnagram](./LeetCode/ValidAnagram242)).
 - [Jan 07] - I went back to see more about hashset because I didn't get it well enough.
 - [Jan 08] - Tried to solve the third LeetCode [TwoSum](./LeetCode/TwoSum01). the Logic has already been understood, but trying to pass to code.
-- [Jan 09] - [Solve TwoSum](./LeetCode/TwoSum/) exercise with brute force method.
+- [Jan 09] - [Solve TwoSum](./LeetCode/TwoSum01/) exercise with brute force method.
 ---
