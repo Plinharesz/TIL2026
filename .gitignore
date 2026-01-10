@@ -1,10 +1,10 @@
-# Ignorar arquivos compilados (binários que o Java gera)
+# Ignore compiled files (Java binaries)
 out/
 *.class
 
-# Ignorar configurações do IntelliJ (são pessoais da sua máquina)
+# Ignore IntelliJ configurations (personal settings)
 .idea/
 *.iml
 
-# Ignorar arquivos de sistema do Mac (lixo que o Finder cria)
+# Ignore Mac system files
 .DS_Store
