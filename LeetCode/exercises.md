@@ -22,6 +22,6 @@
 
 3- Hash Table ❌
 
-## 3- Two Sum (1)
+## 3- Two Sum (01)
 
 
