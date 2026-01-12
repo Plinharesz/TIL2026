@@ -22,5 +22,6 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Jan 08] - Tried to solve the third LeetCode [TwoSum](./LeetCode/TwoSum01). the Logic has already been understood, but trying to pass to code.
 - [Jan 09] - [Solve TwoSum](./LeetCode/TwoSum01/twoSum.java) exercise with brute force method.
 - [Jan 10] - I redid the three leetcode exercises of the week to fix the knowledge.
-- [Jan 11] - Day Off :D
+- [Jan 11] - *Day Off*
+- [Jan 12] - Started organizing the repository structure for Arrays, HashMaps, and HashSets.
 ---
