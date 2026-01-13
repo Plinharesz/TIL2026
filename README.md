@@ -24,4 +24,5 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Jan 10] - I redid the three leetcode exercises of the week to fix the knowledge.
 - [Jan 11] - *Day Off*
 - [Jan 12] - Started organizing the repository structure for Arrays, HashMaps, and HashSets.
+- [Jan 13] - Tried to solve 4th LeetCode [GroupAnagrams](./LeetCode/GroupAnagrams49). The logic has already been understood, but trying to pass to code.
 ---
