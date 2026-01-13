@@ -1,5 +1,3 @@
-package arraysandhashmap;
-
 public class TesteArrays {
     public static void main(String[] args) {
         // 1. Criacao da Array com tamanho 5.
@@ -21,8 +19,5 @@ public class TesteArrays {
         for (int i = 0; i < notas.length; i++) {
             System.out.println(notas[i] + " ");
         }
-
-
-
     }
 }
