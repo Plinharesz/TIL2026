@@ -26,4 +26,5 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Jan 12] - Started organizing the repository structure for Arrays, HashMaps, and HashSets.
 - [Jan 13] - Tried to solve 4th LeetCode [GroupAnagrams](./LeetCode/GroupAnagrams49). The logic has already been understood, but trying to pass to code.
 - [Jan 14] - [Solve groupAnagrams](./LeetCode/GroupAnagrams49/groupAnagrams.java) exercise with sorting solution.
+- [Jan 15] - Redid previous exercises to fix concepts and tried to solve [TopKFrequentElements](./LeetCode/TopKFrequentElements347).
 ---
