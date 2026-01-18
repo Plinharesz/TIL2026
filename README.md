@@ -29,4 +29,5 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Jan 15] - Redid previous exercises to fix concepts and tried to solve [TopKFrequentElements](./LeetCode/TopKFrequentElements347).
 - [Jan 16] - Tried to solve [Top K Frequent Elements](./LeetCode/TopKFrequentElements347/topKFrequentElements.java) (first exercise classified as medium level) 
 - [Jan 17] - *Day Off*
+- [Jan 18] - 
 ---
