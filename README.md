@@ -29,5 +29,8 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Jan 15] - Redid previous exercises to fix concepts and tried to solve [TopKFrequentElements](./LeetCode/TopKFrequentElements347).
 - [Jan 16] - Tried to solve [Top K Frequent Elements](./LeetCode/TopKFrequentElements347/topKFrequentElements.java) (first exercise classified as medium level) 
 - [Jan 17] - *Day Off*
-- [Jan 18] - 
+- [Jan 18] - Created folder about [Arrays & Hashing](./algorithms/Arrays&Hashing) and another with [Commit Message Tips](./git/commit-messages.md) for best practices and use cases.
+- [Jan 19] - Learn about more Git concepts - Pull Request
+- [Jan 20] - Reviewed core concepts for the upcoming university semester: Computacional Systems and Automated Systems.
+- [Jan 21] - 
 ---
