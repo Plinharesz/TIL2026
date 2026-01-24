@@ -33,7 +33,7 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Jan 19] - Learn about more Git concepts - Pull Request
 - [Jan 20] - Reviewed core concepts for the upcoming university semester: Computacional Systems and Automated Systems.
 - [Jan 21] - Learn about [StringBuilder](./Java/Class/StringBuilder) Java class
-- [Jan 22] - Inicialize new LeetCode exercise [Encode And Decode Strings](./LeetCode/EncodeAndDecodeStrings271)
+- [Jan 22] - Inicialize and solve new LeetCode exercise [Encode And Decode Strings](./LeetCode/EncodeAndDecodeStrings271)
 - [Jan 23] - Introduce new [LeetCode](./LeetCode) exercise [Product Of Array Except Self](./LeetCode/ProductOfArrayExceptSelf238)
 - [Jan 24] - 
 ---
