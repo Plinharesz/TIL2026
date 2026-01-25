@@ -35,5 +35,5 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Jan 21] - Learn about [StringBuilder](./Java/Class/StringBuilder) Java class.
 - [Jan 22] - Inicialize and solve new LeetCode exercise [Encode And Decode Strings](./LeetCode/EncodeAndDecodeStrings271).
 - [Jan 23] - Introduce new [LeetCode](./LeetCode) exercise [Product Of Array Except Self](./LeetCode/ProductOfArrayExceptSelf238).
-- [Jan 24] - Solve and analyse code estructure about [Product Of Array Except Self](./LeetCode/ProductOfArrayExceptSelf238) exercise. 
+- [Jan 24] - Solve and analyse code estructure about [Product Of Array Except Self](./LeetCode/ProductOfArrayExceptSelf238/productExceptSelf.java) exercise. 
 ---
