@@ -30,10 +30,10 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Jan 16] - Tried to solve [Top K Frequent Elements](./LeetCode/TopKFrequentElements347/topKFrequentElements.java) (first exercise classified as medium level) 
 - [Jan 17] - *Day Off*
 - [Jan 18] - Created folder about [Arrays & Hashing](./algorithms/Arrays%20&%20Hashing) and another with [Commit Message Tips](./git/commit-messages.md) for best practices and use cases.
-- [Jan 19] - Learn about more Git concepts - Pull Request
+- [Jan 19] - Learn about more Git concepts - Pull Request.
 - [Jan 20] - Reviewed core concepts for the upcoming university semester: Computacional Systems and Automated Systems.
-- [Jan 21] - Learn about [StringBuilder](./Java/Class/StringBuilder) Java class
-- [Jan 22] - Inicialize and solve new LeetCode exercise [Encode And Decode Strings](./LeetCode/EncodeAndDecodeStrings271)
-- [Jan 23] - Introduce new [LeetCode](./LeetCode) exercise [Product Of Array Except Self](./LeetCode/ProductOfArrayExceptSelf238)
-- [Jan 24] - 
+- [Jan 21] - Learn about [StringBuilder](./Java/Class/StringBuilder) Java class.
+- [Jan 22] - Inicialize and solve new LeetCode exercise [Encode And Decode Strings](./LeetCode/EncodeAndDecodeStrings271).
+- [Jan 23] - Introduce new [LeetCode](./LeetCode) exercise [Product Of Array Except Self](./LeetCode/ProductOfArrayExceptSelf238).
+- [Jan 24] - Solve and analyse code estructure about [Product Of Array Except Self](./LeetCode/ProductOfArrayExceptSelf238) exercise. 
 ---
