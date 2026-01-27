@@ -1,5 +1,7 @@
+package LeetCode.EncodeAndDecodeStrings271;
 import java.util.ArrayList;
 import java.util.List;
+
 
 class Solution {
     public String encode(List<String> strs) {
