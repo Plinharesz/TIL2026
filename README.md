@@ -36,5 +36,6 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Jan 22] - Inicialize and solve new LeetCode exercise [Encode And Decode Strings](./LeetCode/EncodeAndDecodeStrings271).
 - [Jan 23] - Introduce new [LeetCode](./LeetCode) exercise [Product Of Array Except Self](./LeetCode/ProductOfArrayExceptSelf238).
 - [Jan 24] - Solve and analyse code estructure about [Product Of Array Except Self](./LeetCode/ProductOfArrayExceptSelf238/productExceptSelf.java) exercise. 
-- [Jan 25] - Introducing [Valid Sudoku](./LeetCode/ValidSudoku36). 
+- [Jan 25] - *Day Off*
+- [Jan 26] - Introducing [Valid Sudoku](./LeetCode/ValidSudoku36).
 ---
