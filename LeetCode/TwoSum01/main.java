@@ -1,7 +1,7 @@
 public static void main(String[] args) {
     // 1. Definir os dados de teste (TestCase)
     int[] listaNumeros = {2, 7, 11, 15};
-    int objetivo = 9;
+    int objetivo = 26;
 
     // 2. Instanciar a classe (criar o objeto)
     // Precisamos fazer isso porque o métod twoSum não é "static"
