@@ -1,4 +1,4 @@
-public class TestMatrices {
+class TestMatrices {
 
     public static void main(String[] args) {
 
@@ -33,7 +33,7 @@ public class TestMatrices {
 
         // Percorrendo com for-each
         for (int[] linha : matriz) {
-            for (int valor : linha) {
+            for (int valores : linha) {
                 System.out.println(valor + " ");
             }
             System.out.println();
@@ -67,10 +67,10 @@ public class TestMatrices {
 
         // Somar apenas uma coluna específica
         int coluna = 2;
-        int soma = 0;
+        int somam = 0;
 
         for (int i = 0; i < matriz.length; i++) {
-            soma += matriz[i][coluna];
+            somam += matriz[i][coluna];
         }
     }
 }
