@@ -5,7 +5,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 public class longestConsecutiveSequence {
-    public int longestConsecutiveSequence (int[] nums) {
+    public int longestConsecutiveSequence(int[] nums) {
         Set<Integer> lista = new HashSet<>();
         for (int num : nums) {
             lista.add(num);
@@ -13,28 +13,34 @@ public class longestConsecutiveSequence {
 
         int maiorSequencia = 0;
 
+        for (int num: lista) {
+            if(!lista.contains(num-1)) {
+                int numeroAtual= num;
+                int sequenciaAtual = 1;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        for (int i=0; i< lista.size(); i++) {
-            for (int j=1; j< lista.size(); j++) {
-                if (lista[j] == lista[i] +1) {
-                    contador++;
+                while (lista.contains(numeroAtual+1)) {
+                    numeroAtual++;
+                    sequenciaAtual++;
                 }
+                maiorSequencia = Math.max(maiorSequencia, sequenciaAtual);
             }
         }
+        return maiorSequencia;
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
