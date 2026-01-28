@@ -1,6 +1,4 @@
-package LongestConsecutiveSequence;
-
-public class Main {
+public class MainLongestConsecutiveSequence {
     public static void main(String[] args) {
     longestConsecutiveSequence solucao = new longestConsecutiveSequence();
 
