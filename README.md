@@ -38,5 +38,6 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Jan 24] - Solve and analyse code estructure about [Product Of Array Except Self](./LeetCode/ProductOfArrayExceptSelf238/productExceptSelf.java) exercise. 
 - [Jan 25] - *Day Off*
 - [Jan 26] - Introducing [Valid Sudoku](./LeetCode/ValidSudoku36).
-- [jan 27] - Solve [Valid Sudoku](./LeetCode/ValidSudoku36/validSudoku.java) exercise and created [Matrices](./algorithms/Matrices) folder to explain 2D Arrays Logic.
+- [Jan 27] - Solve [Valid Sudoku](./LeetCode/ValidSudoku36/validSudoku.java) exercise and created [Matrices](./algorithms/Matrices) folder to explain 2D Arrays Logic.
+- [Jan 28] - Introduce and Solve [Longest Consecutive Sequence](./LeetCpde/LongestConsecutiveSequence)
 ---
