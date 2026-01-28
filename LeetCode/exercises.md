@@ -26,3 +26,8 @@
 1- Sorting ❌
 
 
+## 6- Encode And Decode Strings (271) 
+
+## 7- Valid Sudoku (36) 
+
+
