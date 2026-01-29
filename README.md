@@ -39,6 +39,5 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Jan 25] - *Day Off*
 - [Jan 26] - Introducing [Valid Sudoku](./LeetCode/ValidSudoku36).
 - [Jan 27] - Solve [Valid Sudoku](./LeetCode/ValidSudoku36/validSudoku.java) exercise and created [Matrices](./algorithms/Matrices) folder to explain 2D Arrays Logic.
-- [Jan 28] - Introduce and Solve [Longest Consecutive Sequence](./LeetCode/LongestConsecutiveSequence).
-- [Jan 29] - 
+- [Jan 28] - Introduce and Solve [Longest Consecutive Sequence](./LeetCode/LongestConsecutiveSequence)
 ---
