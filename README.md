@@ -42,5 +42,6 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Jan 28] - Introduce and Solve [Longest Consecutive Sequence](./LeetCode/LongestConsecutiveSequence).
 - [Jan 29] - Started new project "LinkTree".
 - [Jan 30] - Started "Valid Anagram" - LeetCode exercise.
-- [Jan 31] -
+- [Jan 31] - *Day Off*
+- [Feb 01] -
 ---
