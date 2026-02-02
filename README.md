@@ -41,12 +41,12 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Jan 27] - Solve [Valid Sudoku](./LeetCode/ValidSudoku36/validSudoku.java) exercise and created [Matrices](./algorithms/Matrices) folder to explain 2D Arrays Logic.
 - [Jan 28] - Introduce and Solve [Longest Consecutive Sequence](./LeetCode/LongestConsecutiveSequence).
 - [Jan 29] - Started new project "LinkTree".
-- [Jan 30] - Started "Valid Anagram" - LeetCode exercise.
+- [Jan 30] - Started [Valid Palindrome](./LeetCode/ValidPalindrome125) exercise from LeetCode.
 - [Jan 31] - Day Off
 
 ### February
-- [Feb 01] -
-- 
+- [Feb 01] - Created and studied about new algorithm folder [Two Pointers](./algorithms/Two%20Pointers).
+- [Feb 02] - Solve [Valid Palindrome](./LeetCode/ValidPalindrome125/validPalindrome.java). 
 
 
 ---
