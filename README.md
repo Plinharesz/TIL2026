@@ -14,10 +14,10 @@ The goal is to maintain consistency and reinforce knowledge.
 ### January
 
 - [Jan 01] - Happy new year!
-- [Jan 02] - Project setup & [How to create folders on github](./algorithms/How%20to%20create%20folders%20on%20github).
+- [Jan 02] - Project setup & [How to create folders on github](./algorithms/creating-folders-on-github.md).
 - [Jan 03] - Refreshed core concepts of [Arrays](./algorithms/Arrays) and [HashMaps](./algorithms/HashMaps) to start my Data Structures & Algorithms journey.
 - [Jan 04] - First LeetCode exercise done ([Contains Duplicate](LeetCode/Contains%20Duplicate%20-%20217)).
-- [Jan 05] - Learned about [HashSet](./algorithms/HashSet) and implemented 3 solutions for Contains Duplicate ([Brute Force](LeetCode/Contains%20Duplicate%20-%20217/containsDuplicate_bruteForce.java) vs [Sorting](LeetCode/Contains%20Duplicate%20-%20217/containsDuplicate_sorting.java) vs [HashSet](LeetCode/Contains%20Duplicate%20-%20217/containsDuplicate_hashSet.java)).
+- [Jan 05] - Learned about [HashSet](./algorithms/HashSets) and implemented 3 solutions for Contains Duplicate ([Brute Force](LeetCode/Contains%20Duplicate%20-%20217/containsDuplicate_bruteForce.java) vs [Sorting](LeetCode/Contains%20Duplicate%20-%20217/containsDuplicate_sorting.java) vs [HashSet](LeetCode/Contains%20Duplicate%20-%20217/containsDuplicate_hashSet.java)).
 - [Jan 06] - Second LeetCode exercise done ([Valid Anagram](LeetCode/Valid%20Anagram%20-%20242)).
 - [Jan 07] - I went back to see more about hashset because I didn't get it well enough.
 - [Jan 08] - Tried to solve the third LeetCode ([Two Sum](LeetCode/Two%20Sum%20-%2001)).
