@@ -49,5 +49,6 @@ The goal is to maintain consistency and reinforce knowledge.
 
 - [Feb 01] - Created and studied about new algorithm folder [Two Pointers](./algorithms/Two%20Pointers).
 - [Feb 02] - Solve [Valid Palindrome](LeetCode/Valid%20Palindrome%20-%20125/validPalindrome.java).
-- [Feb 03] - Solved [Two Sum II - Input Array Is Sorted](./LeetCode/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted%20-%20167) and completed a technical assessment for a developer internship. 
+- [Feb 03] - Solved [Two Sum II - Input Array Is Sorted](./LeetCode/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted%20-%20167) and completed a technical assessment for a developer internship.
+- [Feb 04] - 
 ---
