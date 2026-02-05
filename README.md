@@ -51,5 +51,5 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Feb 02] - Solve [Valid Palindrome](LeetCode/Valid%20Palindrome%20-%20125/validPalindrome.java).
 - [Feb 03] - Solved [Two Sum II - Input Array Is Sorted](./LeetCode/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted%20-%20167) and completed a technical assessment for a developer internship.
 - [Feb 04] - Started and solved [Binary Search](./LeetCode/Binary%20Search%20-%20704).
-- [Feb 05] - Refactor [Longest Consecutive Sequence](./algorithms/LeetCode/Longest%20Consecutive%20Sequence%20-%20128) due to Time Limit Exceed on LeetCode. Also started [3sum](./LeetCode/3Sum%20-%2015).
+- [Feb 05] - Refactor [Longest Consecutive Sequence](./LeetCode/Longest%20Consecutive%20Sequence%20-%20128) due to Time Limit Exceed on LeetCode. Also started [3sum](./LeetCode/3Sum%20-%2015).
 ---
