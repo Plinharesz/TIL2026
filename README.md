@@ -54,6 +54,4 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Feb 05] - Refactor [Longest Consecutive Sequence](./LeetCode/Longest%20Consecutive%20Sequence%20-%20128) due to Time Limit Exceed on LeetCode. 
 - [Feb 06] - Started [3sum](./LeetCode/3Sum%20-%2015).
 - [Feb 07] - Started and solved [Majority Element](./LeetCode/Majority%20Element%20-%20169).
-- [Feb 08] - Day off
-- [Feb 09] - 
 ---
