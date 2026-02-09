@@ -55,5 +55,5 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Feb 06] - Started [3sum](./LeetCode/3Sum%20-%2015).
 - [Feb 07] - Started and solved [Majority Element](./LeetCode/Majority%20Element%20-%20169).
 - [Feb 08] - Day Off
-- [Feb 09] - Conclued internship exercise 
+- [Feb 09] - Conclued internship exercise and solve [3Sum](./LeetCode/3Sum%20-%2015).
 ---
