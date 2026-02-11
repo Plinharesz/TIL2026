@@ -56,4 +56,6 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Feb 07] - Started and solved [Majority Element](./LeetCode/Majority%20Element%20-%20169).
 - [Feb 08] - Day Off
 - [Feb 09] - Conclued internship exercise and solve [3Sum](./LeetCode/3Sum%20-%2015).
+- [Feb 10] - Started [Container With Most Water](./LeetCode/Container%20With%20Most%20Water%20-%2011). Designing the solution visually helped me structure the algorithm and avoid unnecessary rework.
+- [Feb 11] - Solved [Container With Most Water](./LeetCode/Container%20With%20Most%20Water%20-%2011). Today I reinforced the importance of thinking before coding. 
 ---
