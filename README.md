@@ -59,4 +59,5 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Feb 10] - Started [Container With Most Water](./LeetCode/Container%20With%20Most%20Water%20-%2011). Designing the solution visually helped me structure the algorithm and avoid unnecessary rework.
 - [Feb 11] - Solved [Container With Most Water](./LeetCode/Container%20With%20Most%20Water%20-%2011). Today I reinforced the importance of thinking before coding. Also submit [Valid Palindrome](./LeetCode/Valid%20Palindrome%20-%20125) on LeetCode page
 - [Feb 12] - Started and solved [Trapping Rain Water](./LeetCode/Trapping%20Rain%20Water%20-%2042) - first hard question.
+- [Feb 13] - After finish "Arrays & Hashing" and "Two Pointers", deeping into new pattern "Stack".
 ---
