@@ -61,5 +61,6 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Feb 12] - Started and solved [Trapping Rain Water](./LeetCode/Trapping%20Rain%20Water%20-%2042) - first hard question.
 - [Feb 13] - After finish "Arrays & Hashing" and "Two Pointers", deeping into new pattern "Stack".
 - [Feb 14] - *Day Off*
-- [Feb 15] - 
+- [Feb 15] - Started [Valid Parentheses](./LeetCode/Valid%20Parentheses).
+- [Feb 16] - Solve [Valid Parentheses](./LeetCode/Valid%20Parentheses) using brute force method. Next step is solve using Stack method.
 ---
