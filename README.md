@@ -63,4 +63,5 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Feb 14] - *Day Off*
 - [Feb 15] - Started [Valid Parentheses](./LeetCode/Valid%20Parentheses).
 - [Feb 16] - Solve [Valid Parentheses](./LeetCode/Valid%20Parentheses) using brute force method. Next step is solve using Stack method.
+- [Feb 17] - Trying a Computacional Vision feature in a python project. 
 ---
