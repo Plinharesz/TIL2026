@@ -65,5 +65,6 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Feb 16] - Solve [Valid Parentheses](./LeetCode/Valid%20Parentheses%20-%2020/validParentheses_bruteForce.java) using brute force method. Next step is solve using Stack method.
 - [Feb 17] - Trying a Computacional Vision feature in a python project. 
 - [Feb 18] - Solve [Valid Parentheses](./LeetCode/Valid%20Parentheses%20-%2020/validParentheses_bruteForce.java) using stack method. 
-- [Feb 19] - 
+- [Feb 19] - Deeping knowledge about how works IT Support with clients.
+- [Feb 20] -
 ---
