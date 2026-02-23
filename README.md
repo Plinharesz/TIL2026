@@ -67,6 +67,7 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Feb 18] - Solve [Valid Parentheses](./LeetCode/Valid%20Parentheses%20-%2020/validParentheses_bruteForce.java) using stack method. 
 - [Feb 19] - Deeping knowledge about how works IT Support with clients.
 - [Feb 20] - Sketch the logic, translate to code and smoothly solved [Evaluate Reverse Polish Notation](./LeetCode/Evaluate%20Reverse%20Polish%20Notation%20-%20150). 
-- [Feb 21] - 
+- [Feb 21] - Created a use case diagram, starting my studies on software modeling.
 - [Feb 22] - *Day off*
+- [Feb 23] - 
 ---
