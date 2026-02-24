@@ -69,5 +69,7 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Feb 20] - Sketch the logic, translate to code and smoothly solved [Evaluate Reverse Polish Notation](./LeetCode/Evaluate%20Reverse%20Polish%20Notation%20-%20150). 
 - [Feb 21] - Created a use case diagram, starting my studies on software modeling.
 - [Feb 22] - *Day off*
-- [Feb 23] - 
+- [Feb 23] - Started breaking down the Daily Temperatures exercise from LeetCode.
+- [Feb 24] - 
+
 ---
