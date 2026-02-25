@@ -70,6 +70,7 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Feb 21] - Created a use case diagram, starting my studies on software modeling.
 - [Feb 22] - *Day off*
 - [Feb 23] - Started breaking down the Daily Temperatures exercise from LeetCode.
-- [Feb 24] - 
+- [Feb 24] - Analyzed several solutions for Daily Temperature to better understand the underlying the logic.
+- [Feb 25] - 
 
 ---
