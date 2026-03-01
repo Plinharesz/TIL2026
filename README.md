@@ -74,6 +74,7 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Feb 25] - Handled IT support requests at the company.
 - [Feb 26] - Attended the introductory lecture on Automated Systems at university.
 - [Feb 27] - Handled IT support requests at the company.
-- [Feb 28] - 
+- [Feb 28] - *Day Off*
+
 
 ---
