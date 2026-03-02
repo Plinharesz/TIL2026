@@ -76,5 +76,9 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Feb 27] - Handled IT support requests at the company.
 - [Feb 28] - *Day Off*
 
+  ### March
+- [Mar 01] - Started another stack leetcode challenge [Car Fleet]
+- [Mar 02] -
+
 
 ---
