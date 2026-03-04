@@ -80,7 +80,8 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Mar 01] - Started another stack leetcode challenge [Car Fleet].
 - [Mar 02] - Handled IT support requests at the company.
 - [Mar 03] - Practiced data manipulation in Excel.
-- 
+- [Mar 04] - Happy birthday.
+- [Mar 05] - 
 
 
 ---
