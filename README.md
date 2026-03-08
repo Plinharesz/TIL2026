@@ -82,7 +82,7 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Mar 03] - Practiced data manipulation in Excel.
 - [Mar 04] - Happy birthday.
 - [Mar 05] - Handled IT support requests at the company.
-- [Mar 06] - 
+- [Mar 06] - Handled IT support requests at the company.
 - [Mar 07] - *Day Off*
 
 
