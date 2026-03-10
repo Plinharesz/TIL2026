@@ -86,6 +86,7 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Mar 07] - *Day Off*
 - [Mar 08] - *Day Off*
 - [Mar 09] - Done some logical tests.
+- [Mar 10] - 
 
 
 ---
