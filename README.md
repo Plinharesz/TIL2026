@@ -86,7 +86,10 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Mar 07] - *Day Off*
 - [Mar 08] - *Day Off*
 - [Mar 09] - Done some logical tests.
-- [Mar 10] - test
+- [Mar 10] - Resolved daily IT support tickets and assisted coworkers with technical issues.
+- [Mar 11] - Completed a logic test.
+- [Mar 12] - Done some logical tests.
+- 
 
 
 ---
