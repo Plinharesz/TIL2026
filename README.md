@@ -89,7 +89,7 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Mar 10] - Resolved daily IT support tickets and assisted coworkers with technical issues.
 - [Mar 11] - Completed a logic test.
 - [Mar 12] - Done some logical tests.
-- 
+- [Mar 13] -
 
 
 ---
