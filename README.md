@@ -90,7 +90,7 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Mar 11] - Completed a logic test.
 - [Mar 12] - Done some logical tests.
 - [Mar 13] - Handled IT support requests at the company.
-- [Mar 14] -
+- [Mar 14] - *Day Off*
 
 
 ---
