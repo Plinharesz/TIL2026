@@ -91,6 +91,8 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Mar 12] - Done some logical tests.
 - [Mar 13] - Handled IT support requests at the company.
 - [Mar 14] - *Day Off*
+- [Mar 15] - *Day Off*
+- [Mar 16] -
 
 
 ---
