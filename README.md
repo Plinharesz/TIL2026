@@ -93,7 +93,8 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Mar 14] - *Day Off*
 - [Mar 15] - *Day Off*
 - [Mar 16] - Studied [Sliding Window](./algorithms/Sliding%20Window) algorithm pattern.
-- [Mar 17] -
+- [Mar 17] - Started and solved [Best Time to Buy and Sell Stock](./LeetCode/Best%20Time%20To%20Buy%20and%20Sell%20Stock%20-%20121) - first [Sliding Window](./algorithms/Sliding%20Window) exercise.
+
 
 
 ---
