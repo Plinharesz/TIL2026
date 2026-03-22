@@ -97,7 +97,8 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Mar 18] - Created different class diagrams for three different scenarios.
 - [Mar 19] - Started and solved [Longest Substring Without Repeating Characters](./LeetCode/Longest%20Substring%20Without%20Repeating%20Characters%20-%2003).
 - [Mar 20] - 
-- [Mar 21] -
+- [Mar 21] - *Day Off*
+- [Mar 22] - 
 
 
 ---
