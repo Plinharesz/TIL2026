@@ -76,7 +76,7 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Feb 27] - Handled IT support requests at the company.
 - [Feb 28] - *Day Off*
 
-  ### March
+### March
 - [Mar 01] - Started another stack leetcode challenge [Car Fleet].
 - [Mar 02] - Handled IT support requests at the company.
 - [Mar 03] - Practiced data manipulation in Excel.
@@ -93,6 +93,10 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Mar 14] - *Day Off*
 - [Mar 15] - *Day Off*
 - [Mar 16] - Studied [Sliding Window](./algorithms/Sliding%20Window) algorithm pattern.
+- [Mar 17] - Started and solved [Best Time to Buy and Sell Stock](./LeetCode/Best%20Time%20To%20Buy%20and%20Sell%20Stock%20-%20121) - first [Sliding Window](./algorithms/Sliding%20Window) exercise.
+- [Mar 18] - Created different class diagrams for three different scenarios.
+- [Mar 19] - Started and solved [Longest Substring Without Repeating Characters](./LeetCode/Longest%20Substring%20Without%20Repeating%20Characters%20-%2003).
+- [Mar 20] -
 
 
 ---
