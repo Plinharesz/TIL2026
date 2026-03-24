@@ -100,7 +100,7 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Mar 21] - *Day Off*
 - [Mar 22] - *Day Off*
 - [Mar 23] - Created class and use case diagrams for a startup.
-- [Mar 24] -
+- [Mar 24] 
 
 
 ---
