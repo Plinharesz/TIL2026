@@ -103,7 +103,10 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Mar 24] - Resolved daily IT support tickets and assisted coworkers with technical issues.
 - [Mar 25] - Started [Longest Repeating Character Replacement](./LeetCode/Longest%20Repeating%20Character%20Replacement%20-%20424).
 - [Mar 26] - Draw how the algorithm of [Longest Repeating Character Replacement](./LeetCode/Longest%20Repeating%20Character%20Replacement%20-%20424) should work. Still finding the code conclusion.
-- [Mar 27] - 
+- [Mar 27] - Handled IT support requests at the company.
+- [Mar 28] - *Day Off*
+- [Mar 29] - *Day Off*
+- [Mar 30] - Resolved daily IT support tickets and assisted coworkers with technical issues.
 
 
 ---
