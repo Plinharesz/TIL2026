@@ -107,9 +107,10 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Mar 28] - *Day Off*
 - [Mar 29] - *Day Off*
 - [Mar 30] - Resolved daily IT support tickets and assisted coworkers with technical issues.
-- [Mar 31] - 
+- [Mar 31] - Managed internal help desk requests and troubleshooting tasks.
 
 ### April
-- [Apr 01] - 
-
+- [Apr 01] - Addressed high-priority IT support requests and system maintenance.
+- [Apr 02] -
+- 
 ---
