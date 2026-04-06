@@ -113,7 +113,7 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Apr 01] - Addressed high-priority IT support requests and system maintenance.
 - [Apr 02] - IT support and operational tasks.
 - [Apr 03] - *Day Off*
-- [Apr 04] - *Day Off*w
+- [Apr 04] - *Day Off*
 - [Apr 05] - Managed daily IT tasks and technical support requirements.
 - [Apr 06] - Full day dedicated to IT operational demands at the company.
 ---
