@@ -125,5 +125,6 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Apr 13] - Resolved daily IT support tickets and assisted coworkers with technical issues.
 - [Apr 14] - Handled daily IT demands at work.
 - [Apr 15] - IT support and operational tasks.
-- [Apr 16] - Started Permutation in String - LeetCode exercise (Sliding Window). 
+- [Apr 16] - Started Permutation in String - LeetCode exercise (Sliding Window).
+- [Apr 17] -
 ---
