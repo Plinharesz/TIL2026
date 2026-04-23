@@ -131,5 +131,6 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Apr 19] - *Day Off*
 - [Apr 20] - 
 - [Apr 21] - 
-- [Apr 22] - 
+- [Apr 22] -
+- [Apr 23] - Canvas development.
 ---
