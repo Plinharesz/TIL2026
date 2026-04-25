@@ -133,5 +133,7 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Apr 21] - 
 - [Apr 22] -
 - [Apr 23] - Canvas development.
-- [Apr 24] - 
+- [Apr 24] - Portas Logicas 
+- [Apr 25] -
+
 ---
