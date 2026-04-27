@@ -129,12 +129,12 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Apr 17] - Managed daily IT tasks and technical support requirements.
 - [Apr 18] - *Day Off*
 - [Apr 19] - *Day Off*
-- [Apr 20] - 
-- [Apr 21] - 
-- [Apr 22] -
+- [Apr 20] - Full day dedicated to IT operational demands at the company.
+- [Apr 21] - Full day dedicated to IT operational demands at the company.
+- [Apr 22] - Resolved daily IT support tickets and assisted coworkers with technical issues.
 - [Apr 23] - Canvas development.
 - [Apr 24] - Portas Logicas 
-- [Apr 25] -
-- [Apr 26] -
-
+- [Apr 25] - *Day Off*
+- [Apr 26] - *Day Off*
+- [Apr 27] -
 ---
