@@ -13,7 +13,7 @@ The goal is to maintain consistency and reinforce knowledge.
 
 ### January
 
-- [Jan 01] - Happy new year!
+- [Jan 01] - Happy new year!!
 - [Jan 02] - Project setup & [How to create folders on github](./git/creating-folders-on-github.md).
 - [Jan 03] - Refreshed core concepts of [Arrays](./algorithms/Arrays) and [HashMaps](./algorithms/HashMaps) to start my Data Structures & Algorithms journey.
 - [Jan 04] - First LeetCode exercise done ([Contains Duplicate](LeetCode/Contains%20Duplicate%20-%20217)).
@@ -96,9 +96,48 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Mar 17] - Started and solved [Best Time to Buy and Sell Stock](./LeetCode/Best%20Time%20To%20Buy%20and%20Sell%20Stock%20-%20121) - first [Sliding Window](./algorithms/Sliding%20Window) exercise.
 - [Mar 18] - Created different class diagrams for three different scenarios.
 - [Mar 19] - Started and solved [Longest Substring Without Repeating Characters](./LeetCode/Longest%20Substring%20Without%20Repeating%20Characters%20-%2003).
-- [Mar 20] - 
+- [Mar 20] - Handled IT support requests at the company.
 - [Mar 21] - *Day Off*
-- [Mar 22] - 
+- [Mar 22] - *Day Off*
+- [Mar 23] - Created class and use case diagrams for a startup.
+- [Mar 24] - Resolved daily IT support tickets and assisted coworkers with technical issues.
+- [Mar 25] - Started [Longest Repeating Character Replacement](./LeetCode/Longest%20Repeating%20Character%20Replacement%20-%20424).
+- [Mar 26] - Draw how the algorithm of [Longest Repeating Character Replacement](./LeetCode/Longest%20Repeating%20Character%20Replacement%20-%20424) should work. Still finding the code conclusion.
+- [Mar 27] - Handled IT support requests at the company.
+- [Mar 28] - *Day Off*
+- [Mar 29] - *Day Off*
+- [Mar 30] - Resolved daily IT support tickets and assisted coworkers with technical issues.
+- [Mar 31] - Managed internal help desk requests and troubleshooting tasks.
 
-
+### April
+- [Apr 01] - Addressed high-priority IT support requests and system maintenance.
+- [Apr 02] - IT support and operational tasks.
+- [Apr 03] - *Day Off*
+- [Apr 04] - *Day Off*
+- [Apr 05] - Managed daily IT tasks and technical support requirements.
+- [Apr 06] - Full day dedicated to IT operational demands at the company.
+- [Apr 07] - Addressed high-priority IT support requests and system maintenance
+- [Apr 08] - Monitored IT systems and provided direct support to staff.
+- [Apr 09] - IT support and operational tasks.
+- [Apr 10] - Handled daily IT demands at work.
+- [Apr 11] - *Day Off*
+- [Apr 12] - *Day Off*
+- [Apr 13] - Resolved daily IT support tickets and assisted coworkers with technical issues.
+- [Apr 14] - Handled daily IT demands at work.
+- [Apr 15] - IT support and operational tasks.
+- [Apr 16] - Started Permutation in String - LeetCode exercise (Sliding Window).
+- [Apr 17] - Managed daily IT tasks and technical support requirements.
+- [Apr 18] - *Day Off*
+- [Apr 19] - *Day Off*
+- [Apr 20] - Full day dedicated to IT operational demands at the company.
+- [Apr 21] - Full day dedicated to IT operational demands at the company.
+- [Apr 22] - Resolved daily IT support tickets and assisted coworkers with technical issues.
+- [Apr 23] - Canvas development.
+- [Apr 24] - Portas Logicas 
+- [Apr 25] - *Day Off*
+- [Apr 26] - *Day Off*
+- [Apr 27] - Handled IT support requests at the company.
+- [Apr 28] - Handled IT support requests at the company.
+- [Apr 29] -
+- [Apr 30] -
 ---
