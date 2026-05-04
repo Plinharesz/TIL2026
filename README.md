@@ -137,10 +137,10 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Apr 25] - *Day Off*
 - [Apr 26] - *Day Off*
 - [Apr 27] - Handled IT support requests at the company.
-- [Apr 28] - Handled IT support requests at the company.
-- [Apr 29] -
-- [Apr 30] -
+- [Apr 28] - Full day dedicated to IT operational demands at the company.
+- [Apr 29] - Handled IT support requests at the company.
+- [Apr 30] - Full day dedicated to IT operational demands at the company.
 
 ### May
-
+- [May 01] - Handled daily IT demands at work.
 ---
