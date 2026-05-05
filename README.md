@@ -143,4 +143,5 @@ The goal is to maintain consistency and reinforce knowledge.
 
 ### May
 - [May 01] - Handled daily IT demands at work.
+- [May 02] -
 ---
