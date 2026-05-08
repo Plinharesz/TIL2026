@@ -148,4 +148,6 @@ The goal is to maintain consistency and reinforce knowledge.
 - [May 04] - 
 - [May 05] - 
 - [May 06] -
+- [May 07] -
+- [May 08] - 
 ---
