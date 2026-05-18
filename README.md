@@ -155,4 +155,9 @@ The goal is to maintain consistency and reinforce knowledge.
 - [May 11] - Managed daily IT tasks and technical support requirements.
 - [May 12] - Full day dedicated to IT operational demands at the company.
 - [May 13] - Handled daily IT demands at work.
+- [May 14] - Addressed high-priority IT support requests and system maintenance.
+- [May 15] - Handled daily IT demands at work.
+- [May 16] - *Day off*
+- [May 17] - *Day off*
+- [May 18] - Full day dedicated to IT operational demands at the company.
 ---
