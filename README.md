@@ -162,4 +162,5 @@ The goal is to maintain consistency and reinforce knowledge.
 - [May 18] - Full day dedicated to IT operational demands at the company.
 - [May 19] - Handled IT support requests at the company.
 - [May 20] -
+- [May 21] -
 ---
