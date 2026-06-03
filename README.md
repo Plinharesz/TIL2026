@@ -161,13 +161,23 @@ The goal is to maintain consistency and reinforce knowledge.
 - [May 17] - *Day off*
 - [May 18] - Full day dedicated to IT operational demands at the company.
 - [May 19] - Handled IT support requests at the company.
-- [May 20] -
-- [May 21] -
-- [May 22] -
-- [May 23] -
-- [May 24] -
-- [May 25] -
-- [May 26] -
-- [May 27] -
-- 
+- [May 20] - Handled daily IT demands at work.
+- [May 21] - Handled IT support requests at the company.
+- [May 22] - Handled IT support requests at the company.
+- [May 23] - *Day off*
+- [May 24] - *Day off*
+- [May 25] - Handled daily IT demands at work.
+- [May 26] - Handled IT support requests at the company.
+- [May 27] - Handled daily IT demands at work.
+- [May 28] - Handled IT support requests at the company.
+- [May 29] - Handled IT support requests at the company.
+- [May 30] - *Day off*
+- [May 31] - *Day off*
+
+### June
+- [Jun 01] - Handled daily IT demands at work.
+- [Jun 02] - Handled daily IT demands at work.
+- [Jun 03] - Handled IT support requests at the company.
+- [Jun 04] - *Day off*
+- [Jun 05] - Handled IT support requests at the company.
 ---
