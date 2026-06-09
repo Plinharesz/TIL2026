@@ -180,4 +180,8 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Jun 03] - Handled IT support requests at the company.
 - [Jun 04] - *Day off*
 - [Jun 05] - Handled IT support requests at the company.
+- [Jun 06] -
+- [Jun 07] -
+- [Jun 08] -
+- [Jun 09] -
 ---
