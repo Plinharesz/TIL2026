@@ -186,5 +186,5 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Jun 09] -
 - [Jun 10] -
 - [Jun 11] -
-- [Jun 12] -
+- [Jun 12] 
 ---
