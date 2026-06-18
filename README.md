@@ -180,11 +180,19 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Jun 03] - Handled IT support requests at the company.
 - [Jun 04] - *Day off*
 - [Jun 05] - Handled IT support requests at the company.
-- [Jun 06] -
-- [Jun 07] -
-- [Jun 08] -
-- [Jun 09] -
-- [Jun 10] -
-- [Jun 11] -
-- [Jun 12] 
+- [Jun 06] - *Day off* 
+- [Jun 07] - *Day off*
+- [Jun 08] - Handled daily IT demands at work.
+- [Jun 09] - Handled daily IT demands at work.
+- [Jun 10] - Handled daily IT demands at work.
+- [Jun 11] - Handled daily IT demands at work.
+- [Jun 12] - Handled daily IT demands at work.
+- [Jun 13] - *Day off*
+- [Jun 14] - *Day off*
+- [Jun 15] - Handled daily IT demands at work.
+- [Jun 16] - Handled daily IT demands at work.
+- [Jun 17] - Handled daily IT demands at work.
+- [Jun 18] - Handled daily IT demands at work.
+-
+- 
 ---
