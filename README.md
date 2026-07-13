@@ -184,26 +184,26 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Jun 07] - *Day off*
 - [Jun 08] - Handled daily IT demands at work.
 - [Jun 09] - Handled daily IT demands at work.
-- [Jun 10] - Handled daily IT demands at work.
-- [Jun 11] - Handled daily IT demands at work.
+- [Jun 10] - Managed daily IT tasks and technical support requirements.
+- [Jun 11] - Full day dedicated to IT operational demands at the company.
 - [Jun 12] - Handled daily IT demands at work.
 - [Jun 13] - *Day off*
 - [Jun 14] - *Day off*
-- [Jun 15] - Handled daily IT demands at work.
+- [Jun 15] - Managed daily IT tasks and technical support requirements.
 - [Jun 16] - Handled daily IT demands at work.
-- [Jun 17] - Handled daily IT demands at work.
-- [Jun 18] - Handled daily IT demands at work.
+- [Jun 17] - Managed daily IT tasks and technical support requirements.
+- [Jun 18] - Managed daily IT tasks and technical support requirements.
 - [Jun 19] - Handled daily IT demands at work.
-- [Jun 20] - Handled daily IT demands at work.
-- [Jun 21] - Handled daily IT demands at work.
+- [Jun 20] - *Day off*
+- [Jun 21] - *Day off*
 - [Jun 22] - Handled daily IT demands at work.
-- [Jun 23] - Handled daily IT demands at work.
-- [Jun 24] - Handled daily IT demands at work.
+- [Jun 23] - Full day dedicated to IT operational demands at the company.
+- [Jun 24] - Managed daily IT tasks and technical support requirements.
 - [Jun 25] - Handled daily IT demands at work.
-- [Jun 26] - Handled daily IT demands at work.
-- [Jun 27] - Handled daily IT demands at work.
-- [Jun 28] - Handled daily IT demands at work.
-- [Jun 29] - Handled daily IT demands at work.
+- [Jun 26] - Managed daily IT tasks and technical support requirements.
+- [Jun 27] - *Day off*
+- [Jun 28] - *Day off*
+- [Jun 29] - Full day dedicated to IT operational demands at the company.
 - [Jun 30] - Handled daily IT demands at work.
 
 ### July
