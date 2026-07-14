@@ -207,5 +207,5 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Jun 30] - Handled daily IT demands at work.
 
 ### July
-  
+  - [Jul 01] - Handled daily IT demands at work.
 ---
