@@ -208,4 +208,27 @@ The goal is to maintain consistency and reinforce knowledge.
 
 ### July
   - [Jul 01] - Handled daily IT demands at work.
+  - [Jul 02] -
+  - [Jul 03] -
+  - [Jul 04] - *Day off*
+  - [Jul 05] - *Day off*
+  - [Jul 06] -
+  - [Jul 07] - Logical Test.
+  - [Jul 08] -
+  - [Jul 09] -
+  - [Jul 10] -
+  - [Jul 11] - *Day off*
+  - [Jul 12] - *Day off*
+  - [Jul 13] -
+  - [Jul 14] -
+  - [Jul 15] -
+  - [Jul 16] -
+  - [Jul 17] -
+  - [Jul 18] - *Day off*
+  - [Jul 19] - *Day off*
+  - [Jul 20] -
+  - [Jul 21] -
+  - [Jul 22] - Studied SQL base concepts.
+  - [Jul 23] - Studied Object-Oriented Programming (OOP).
+
 ---
