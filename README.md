@@ -227,7 +227,7 @@ The goal is to maintain consistency and reinforce knowledge.
   - [Jul 18] - *Day off*
   - [Jul 19] - *Day off*
   - [Jul 20] -
-  - [Jul 21] -
+  - [Jul 21] - 
   - [Jul 22] - Studied SQL base concepts.
   - [Jul 23] - Studied Object-Oriented Programming (OOP).
 
