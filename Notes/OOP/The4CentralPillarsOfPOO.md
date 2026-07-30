@@ -25,5 +25,30 @@ Inheritance allows you create new classes based in classes that already exists, 
 >Vehicle(+brand, +model, + speed, + acellerates())
 > 
 > Subclass:
-> Car (inherits everything )
+> Car (inherits everything of "Vehicle" and adds numberOfDoors), Motorcycle (inherits everything of "Vehicle" and adds engineDisplacements).
+
+## 4- Polymorphism:
+The Polymorphism is the capacity of different objects of different classes to respond to the same message (method) in specific ways.
+
+→What solves?: Allows the code to depend on generic interfaces or superclasses without know the exactly class in compilation time, making the architecture extensive.
+
+→ Types of Polymorphism:
+ - Overriding: the subclass rewrites the implementation of a method inherited from the parent.
+ - Overloading: A same class that has methods with the same name, but with differents parameters/signatures.
+> Overriding:  if paymentMethod (superclass) has the method processPayment(), the following subclasses applies uniques behavior:
+> 
+> cardPayment -> processes communicating with the card acquirer.
+> 
+> pixPayment -> processes generating the payload and QRCode.
+> 
+> bankSlipPayment -> processes registering the bank payment slip.
+
+
+
+|Pilar|Main Focus| Key Question                            |
+|-|-|-----------------------------------------|
+|Abstraction|Model Simplification| What is really relevant to this domain? |
+|Encapsulation|Protection and data control|                                         | 
+|Inheritance|Structure reuse|                                         |
+|Polymorphism|Behavior flexibility|                                         |
 
