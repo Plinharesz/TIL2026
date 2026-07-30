@@ -233,10 +233,10 @@ The goal is to maintain consistency and reinforce knowledge.
   - [Jul 24] - 
   - [Jul 25] - *Day off*
   - [Jul 26] - *Day off*
-  - [Jul 27] - Read about [The Central Pillars of POO](./NoteBook/Notes/OOP/The4CentralPillarsOfPOO.md)
+  - [Jul 27] - Read about [The Central Pillars of POO](NoteBook/OOP/OOP/README.md)
   - [Jul 28] - Read about Software Development Lyfe Cycle.
   - [Jul 29] - Studied WEB e API Rest concepts.
-  - [Jul 30] - Transcribed [OOP pillars](./NoteBook/Notes/OOP/The4CentralPillarsOfPOO.md) concepts for til2026.
+  - [Jul 30] - Transcribed [OOP pillars](NoteBook/OOP/OOP/README.md) concepts for til2026.
   - [Jul 31] -
   - 
 
