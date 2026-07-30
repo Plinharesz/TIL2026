@@ -45,10 +45,10 @@ The Polymorphism is the capacity of different objects of different classes to re
 
 
 
-|Pilar|Main Focus| Key Question                            |
-|-|-|-----------------------------------------|
-|Abstraction|Model Simplification| What is really relevant to this domain? |
-|Encapsulation|Protection and data control|                                         | 
-|Inheritance|Structure reuse|                                         |
-|Polymorphism|Behavior flexibility|                                         |
+|Pilar|Main Focus| Key Question                                                          |
+|-|-|-----------------------------------------------------------------------|
+|Abstraction|Model Simplification| What is really relevant to this domain?                               |
+|Encapsulation|Protection and data control| How to ensure my data doesn't become inconsistent?                    | 
+|Inheritance|Structure reuse| Is there a broader concept which this class derives?                  |
+|Polymorphism|Behavior flexibility| How differents types can respond the same action with differents ways |
 
