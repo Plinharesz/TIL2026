@@ -230,5 +230,14 @@ The goal is to maintain consistency and reinforce knowledge.
   - [Jul 21] - 
   - [Jul 22] - Studied SQL base concepts.
   - [Jul 23] - Studied Object-Oriented Programming (OOP).
+  - [Jul 24] - 
+  - [Jul 25] - *Day off*
+  - [Jul 26] - *Day off*
+  - [Jul 27] -
+  - [Jul 28] - 
+  - [Jul 29] - Studied WEB e API Rest concepts.
+  - [Jul 30] - Read about Software Development Lyfe Cycle.
+  - [Jul 31] -
+  - 
 
 ---
