@@ -1,8 +1,10 @@
+package OOP;
+
 // ==========================================
 // 1. ABSTRAÇÃO & POLIMORFISMO (Classe Abstrata)
 // ==========================================
-// Abstraímos o conceito de "Pagamento".
-// Não podemos instanciar um "Pagamento" genérico, apenas formas concretas dele.
+// Abstraímos o conceito de "OOP.Pagamento".
+// Não podemos instanciar um "OOP.Pagamento" genérico, apenas formas concretas dele.
 abstract class Pagamento {
     // 2. ENCAPSULAMENTO
     // Atributos privados protegem o estado interno contra alterações indevidas.
@@ -38,12 +40,12 @@ abstract class Pagamento {
 // ==========================================
 // 3. HERANÇA & POLIMORFISMO (Subclasse 1)
 // ==========================================
-// PagamentoPix herda idTransacao, valor e comportamentos de Pagamento
+// OOP.PagamentoPix herda idTransacao, valor e comportamentos de OOP.Pagamento
 class PagamentoPix extends Pagamento {
     private String chavePix;
 
     public PagamentoPix(String idTransacao, double valor, String chavePix) {
-        super(idTransacao, valor); // Chama o construtor da Superclasse (Pagamento)
+        super(idTransacao, valor); // Chama o construtor da Superclasse (OOP.Pagamento)
         this.chavePix = chavePix;
     }
 
@@ -52,7 +54,7 @@ class PagamentoPix extends Pagamento {
     @Override
     public boolean processar() {
         System.out.println("Gerando Payload e QR Code para a chave Pix: " + chavePix);
-        System.out.println("Pagamento Pix de R$ " + getValor() + " aprovado instantaneamente!");
+        System.out.println("OOP.Pagamento Pix de R$ " + getValor() + " aprovado instantaneamente!");
         return true;
     }
 }
@@ -93,14 +95,14 @@ public class Main {
         System.out.println("--- PROCESSANDO VENDAS ---");
 
         // POLIMORFISMO EM AÇÃO:
-        // Tratamos objetos de tipos diferentes (Pix e Cartão) de forma genérica como 'Pagamento'.
+        // Tratamos objetos de tipos diferentes (Pix e Cartão) de forma genérica como 'OOP.Pagamento'.
         // O method processar() correto é acionado dinamicamente em tempo de execução!
         processarTransacao(pix);
         System.out.println("---------------------------");
         processarTransacao(cartão);
     }
 
-    // Método genérico que aceita QUALQUER subclasse de Pagamento
+    // Método genérico que aceita QUALQUER subclasse de OOP.Pagamento
     public static void processarTransacao(Pagamento pagamento) {
         System.out.println("Iniciando transação ID: " + pagamento.getIdTransacao());
         pagamento.processar(); // Polimorfismo pura decisão em tempo de execução
