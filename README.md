@@ -237,7 +237,7 @@ The goal is to maintain consistency and reinforce knowledge.
   - [Jul 28] - Read about Software Development Lyfe Cycle.
   - [Jul 29] - Studied WEB e API Rest concepts.
   - [Jul 30] - Transcribed [OOP pillars](NoteBook/OOP/OOP/README.md) concepts for til2026.
-  - [Jul 31] -
-  - 
+  - [Jul 31] - Transcribed [Web and API Rest](./NoteBook/Web%20and%20API%20Rest/README.md) concepts for til2026.
+
 
 ---

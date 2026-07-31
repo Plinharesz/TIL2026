@@ -12,19 +12,20 @@ The HTTP (HyperText Transfer Protocol) is the default language who allows the co
 
  → HTTP methods: Indicate the action the customer wishes to perform.
 > - GET: Requests data reading. Does not change the server state (ex: load your instagram feed)
-> - POST: Create a new register in the server (exx: post a new phoot on instagram or send a registration form).
+> - POST: Create a new register in the server (ex: post a new photo on instagram or send a registration form).
 > - PUT: Completely updates an existing record (ex: changing all your profile information).
 > - DELETE: Remove a record from the server. 
 
 ## 3- HTTP Status Code
 When the server responds, it sends a three-digit code indicating the result.
 
-| Track/Code                | Meaning         | Describe  |
-|---------------------------|-----------------|---|
-| 2XX (Sucess)              |                 |   |
-| 200 OK                    | Default sucess  |   |
-| 201 Created               | Create          |   |
-| 4XX Client error          |                 |   |
-| 400 Bad Request           | Invalid Request |   |
-| 404 Not Found             | Not Found       |   |
-| 500 Internal Server Error | Internal error  |   |
+| Track/Code                | Meaning         | Describe                                                                                  |
+|---------------------------|-----------------|-------------------------------------------------------------------------------------------|
+| 2XX (Sucess)              |                 | The request was processed sucessfullly and the data was returned.                         |
+| 200 OK                    | Default sucess  |                                                                                           |
+| 201 Created               | Create          | A new resource has been sucessfully created.                                              |
+| 4XX Client error          |                 |                                                                                           |
+| 400 Bad Request           | Invalid Request | The client sent malformed or missing data (ex: miss to fill email on a registration form. |
+| 404 Not Found             | Not Found       | The resource or page doesn't exists on the server.                                        |
+| 500 Internal Server Error | Internal error  | A failure occurred in the server itself while attempting to process the request.          |
+
