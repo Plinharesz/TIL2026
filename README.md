@@ -239,5 +239,8 @@ The goal is to maintain consistency and reinforce knowledge.
   - [Jul 30] - Transcribed [OOP pillars](NoteBook/OOP/OOP/README.md) concepts for til2026.
   - [Jul 31] - Transcribed [Web and API Rest](./NoteBook/Web%20and%20API%20Rest/README.md) concepts for til2026.
 
-
+### August
+- [Aug 01] - *Day off*
+- [Aug 02] - Handled daily IT demands at work.
+- [Aug 03] - Transcribed [SQL concepts](./NoteBook/DataBase/README.md) fot til2026.
 ---
