@@ -75,3 +75,19 @@ FROM Clients
 WHERE data_cadastro >= '2026-01-01'
 ORDER BY name ASC
 ```
+### Grouping and Metrics
+```
+--- Total amount spent by the costumer
+SELECT id_client, sum(value) AS total_spent, COUNT(id) AS orders_amount
+FROM orders
+GROUP BY id_client
+
+HAVING total_spent > 100.00;
+```
+
+### Tables Junctions (JOINS)
+The JOINS allows cross-referencing data between related tables:
+
+→ INNER JOIN: Return only the registers that have a corresponding entry in both tables 
+
+→ LEFT JOIN: Return all registers of the left table, even without any corresponding entry in right table.
