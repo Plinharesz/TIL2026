@@ -243,4 +243,5 @@ The goal is to maintain consistency and reinforce knowledge.
 - [Aug 01] - *Day off*
 - [Aug 02] - Handled daily IT demands at work.
 - [Aug 03] - Transcribed [SQL concepts](./NoteBook/DataBase/README.md) fot til2026.
+- [Aug 04] - Reviewed LeetCode exercises.
 ---
